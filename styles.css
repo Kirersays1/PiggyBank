@@ -1,0 +1,25 @@
+@font-face {
+    color: #323524;
+    font-family: money;
+    src: url('font/money.ttf') format('truetype');
+}
+
+
+body {
+    background-color: #CED4AB;
+    
+    font-family:money, sans-serif;
+
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}

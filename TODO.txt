@@ -1,0 +1,4 @@
+1. Make a docker File for vm
+2. Create API for easy access to MONGO
+3. Add icons to the Navigation Menu
+4. Upgrade GUI
